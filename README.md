@@ -12,7 +12,7 @@ BarberPro is a web application designed to cater specifically to self-employed b
 
 * **Home Service:** Barbers offer their services for home appointments, providing convenience for clients who prefer to get groomed in the comfort of their own space.
 
-### Furure featues
+### Furure features
 
 * **Rating and Reviews:** Clients can leave reviews and ratings for the services they receive, helping to build trust and credibility within the community.
 
